@@ -1,0 +1,14 @@
+{
+  "name": "myfirstnode",
+  "version": "1.0.0",
+  "description": "my first node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "oaindrila das",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
